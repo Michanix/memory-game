@@ -10,4 +10,6 @@ npm install
 
 ## Start the project
 
+```
 npm run serve
+```
