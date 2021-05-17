@@ -8,6 +8,6 @@ Memory game written in VueJs for the Web development course.
 npm install
 ```
 
-### Start the project
+## Start the project
 
 npm run serve
